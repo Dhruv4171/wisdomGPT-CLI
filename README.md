@@ -7,8 +7,8 @@ WisdomGPT-CLI is a command-line application that allows users to have interactiv
 - Choose from three distinct AI personalities: Oogway, Rafiki, or William Shakespeare.
 - Engage in conversations by typing your questions and prompts.
 - Enjoy typewriter-style responses for a more immersive conversation.
-
-"<iframe width="560" height="315" src="https://www.youtube.com/embed/z_UWgZem3pk?si=OZPYz_UyKVwyj_uz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"
+  
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z_UWgZem3pk?si=OZPYz_UyKVwyj_uz" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ## Installation
 
